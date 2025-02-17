@@ -2,8 +2,6 @@
 x = 10
 name = "John"
 
-
-
 x = 10          # x is an integer
 name = "John"   # name is a string
 
